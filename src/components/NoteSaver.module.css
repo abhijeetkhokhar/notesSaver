@@ -1,0 +1,24 @@
+.textArea {
+  margin-top: 4rem;
+  padding: 1rem;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin-left: 24.1rem;
+}
+
+.btn1 {
+  cursor: pointer;
+  margin: 0.2rem;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.btn2 {
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
